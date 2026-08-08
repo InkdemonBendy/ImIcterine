@@ -1,5 +1,5 @@
 # ImIcterine
-ImIcterine wants to take over your minercraft world, install this to probably ruin your mental health. 0.0.2 is coming and It's gonna have BIG new CEMENT!
+ImIcterine wants to take over your minecraft world, install this to probably ruin your mental health. 0.0.2 is coming and It's gonna have BIG new CEMENT!
 
 > ### IMPORTANT NOTES! <br> READ BEFORE INSTALLING!
 >
