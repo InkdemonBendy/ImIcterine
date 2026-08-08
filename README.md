@@ -6,7 +6,8 @@ ImIcterine wants to take over your minercraft world, install this to probably ru
 > - You do not need a toaster to run this mod.
 > - You should not eat your neighbor's Honda Civic Type R EK9 before going to sleep, it might cause a headache.
 > - You should not rob a donut store and then blame it on your dog.
-> - You should play Nullspace at least version 0.0.4, thank you!
+> - You should play Nullspace version 0.0.4, thank you!
+> - You need to eat at least two peaces of tasty cement brick, only then will your computer start.
 >
 > If you read all of this, you can now install the mod.
 
