@@ -10,6 +10,7 @@ ImIcterine wants to take over your minecraft world, install this to probably rui
 > - You need to eat at least two peaces of tasty cement brick, only then will your computer start.
 >
 > If you read all of this, you can now install the mod.
+> I cannot approve that every question is answered, just play and eat cement bricks.
 
 ### Message from ImIcterine
 "Kebab does not come from lamb. It comes from kebab animal." -ImIcterine
